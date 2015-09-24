@@ -1,7 +1,9 @@
 #include <stdlib.h>
 #include <stdo.h>
 
-void main(void) {printf("hello world!"\n");}
-~~~~~~~~
+int main(int argc, char* arvg[]) { 
+print f("Hello World!"\n"); 
 
+int 1=0 ; 
+for (i=0
 
